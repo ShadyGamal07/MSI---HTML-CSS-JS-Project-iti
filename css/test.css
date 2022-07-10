@@ -1,0 +1,37 @@
+
+
+
+.container{
+    /* width: 1000px; */
+    background-color: crimson;
+    margin: auto;
+}
+
+.header .navbar{
+    background-color: white;
+    color: #000000;
+    overflow: hidden;
+    /* height: 400px; */
+}
+/* .header .navbar img{
+    float: left;
+} */
+
+.header .navbar h3{
+    float: left;
+    display: inline-block;
+}
+
+.header .navbar ul{
+    background-color: blue;
+    list-style: none;
+    padding-left: 0px;
+    float: right;
+}
+
+.header .navbar ul li{
+    /* background-color: chartreuse; */
+    float: left;
+    padding: 10px;
+    /* margin-top: 15px; */
+}
